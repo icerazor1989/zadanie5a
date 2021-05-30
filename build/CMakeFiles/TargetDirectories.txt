@@ -1,0 +1,3 @@
+C:/Users/Rodion/Desktop/DOZGB/dz4/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Rodion/Desktop/DOZGB/dz4/build/CMakeFiles/zadanie.dir
+C:/Users/Rodion/Desktop/DOZGB/dz4/build/CMakeFiles/edit_cache.dir
